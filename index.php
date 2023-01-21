@@ -1,11 +1,11 @@
 <html>
  <head>
-  <title>Curso PHP Progressivo</title>
+  <title>By Leandro Martins</title>
  </head>
  <body>
-  Olá mundo! To no HTML! <br/> 
+  Bom Dia!!! <br/> 
   <script language="php">
-   echo "Hello, World! To no PHP!!";
+   echo "Bom Dia!!! ";
   </script>
  </body>
 </html>
