@@ -1,11 +1,8 @@
 <html>
- <head>
-  <title>By Leandro Martins</title>
- </head>
- <body>
-  Bom Dia!!! <br/> 
-  <script language="php">
-   echo "Bom Dia!!! ";
-  </script>
- </body>
+<head>
+<title>Teste PHP</title>
+</head>
+<body>
+<?php echo "<p>Olá Mundo</p>"; ?>
+</body>
 </html>
