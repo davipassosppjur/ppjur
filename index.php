@@ -4,8 +4,8 @@
  </head>
  <body>
   Olá mundo! To no HTML! <br/> 
-  <?php
-   echo "Hello, World! To no PHP!";
-  ?>
+  <script language="php">
+   echo "Hello, World! To no PHP!!";
+  </script>
  </body>
 </html>
