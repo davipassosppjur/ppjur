@@ -1,0 +1,180 @@
+.wq-03:after{
+	display: none;
+}
+.wq-03 .wq-conteudo{
+	margin-bottom: 30px;
+}
+.wq-03 .wq-titulo_1 h3{
+	color: #1a1a1a;
+}
+.wq-03 .container > p{
+	color: #333;
+}
+.wq-03 .row{
+	margin-top: 100px;
+}
+
+.wq-03{
+	text-align: center;
+}
+
+.wq-06{
+	margin-top: 0;
+}
+
+
+
+.wq-01-palestra-interna{
+	position: relative;
+	padding: 50px 0 100px;
+	overflow: hidden;
+}
+.wq-01-palestra-interna .col-xl-5f:after{
+	content: '';
+	display: block;
+	position: absolute;
+	left: 0;
+	z-index: -1;
+	top: -50px;
+	height: 380px;
+	width: 2000px;
+	background-color: transparent;
+}
+.wq-01-palestra-interna .wq-conteudo{
+	padding-right: 60px;
+
+}
+
+.wq-01-palestra-interna .wq-conteudo .wq-titulo_1 h2,
+.wq-01-palestra-interna .wq-conteudo .wq-titulo_1 h1{
+	color: #1a1a1a;
+}
+.wq-01-palestra-interna .wq-conteudo p,.wq-01-palestra-interna .wq-conteudo li{
+	margin-bottom: 30px;
+	font-size: 16px;
+	color: #212121;
+}
+.wq-01-palestra-interna .wq-conteudo li{
+	margin-bottom: 5px;
+	padding-left: 20px;
+	position: relative;
+}
+.wq-01-palestra-interna .wq-conteudo li:before{
+	content: '';
+	display: block;
+	position: absolute;
+	top: 7px;
+	left: 0px;
+	width: 6px;
+	height: 6px;
+	border-radius: 50%;
+	background-color: #2e3340;
+}
+
+.wq-01-palestra-interna aside .wq-conteudo{
+	background-color: #1a1a1a;
+	padding:60px;
+}
+.wq-01-palestra-interna aside .wq-conteudo .wq-titulo_1 h3{
+	color: #fff;
+	font-weight: 300;
+}
+.wq-01-palestra-interna aside .wq-conteudo .wq-titulo_1{
+	max-width: 100%;
+
+}
+.wq-01-palestra-interna aside .wq-conteudo form{
+	text-align: center;
+}
+.wq-01-palestra-interna aside .wq-conteudo input{
+	text-transform: uppercase;font-weight: 600;
+	font-size: 12px;
+	color: #1a1a1a;
+	padding:20px;
+	border-radius: 40px;
+	border:none;
+	margin-bottom: 20px;
+	width: calc(100% - 40px);
+}
+.wq-01-palestra-interna aside .wq-conteudo button{
+	margin: 30px auto 0;
+	border: none;
+	background-color: #fff;
+	color: #2b2b2b;
+}
+
+
+.wq-01-palestra-interna figure img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+.wq-03 form{
+	margin-top: 80px;
+	text-align: center;
+}
+
+
+.wq-03 form input,
+.wq-03 form textarea,
+.wq-03 form select{
+	color: #2e3340;
+    width: calc(100% - 60px);
+    padding: 20px 30px;
+    background-color: #e6e6e6;
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+.wq-03 form textarea{
+	height: 250px;
+}
+.wq-03 form select{
+	width: 100%;
+}
+.wq-03 form input:focus,
+.wq-03 form textarea:focus,
+.wq-03 form select:focus{
+	border-color: #f16400;
+}
+
+
+.wq-03 form button{
+	border: none;
+}
+.wq-03 form fieldset{
+	border: 1px solid #f3f5f9;
+	margin-bottom: 15px;
+	padding: 20px;
+	border-radius: 5px;
+}
+.wq-03 form fieldset legend{
+	font-size: 18px;
+	color: #f16400;
+	font-weight: 600;
+}
+.wq-03 form{
+	margin-top: 60px;
+	text-align: left;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 55px;
+    background-color: #fff;
+    box-shadow: 0 0 10px 0 rgb(43 52 59 / 10%);
+}
+
+.wq-03 form .row{
+	margin-top: 0;
+}

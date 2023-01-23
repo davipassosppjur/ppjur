@@ -1,0 +1,31 @@
+{
+    "wisseninvestimentos.com.br": {
+        "siteId": "SJhdIYEwKXPQyiFVPNefjlIhZJlzPkMa",
+        "siteSecret": "2Iks6EZqFToSMGuXymRgUChHtLPhmLFVyV8rYdwKXas8Qt4cdoHO6eeKUzLOqVV0",
+        "blogId": 1,
+        "compression": true,
+        "webhookToken": "9da2ff75cc741884d633f986ff002bb7",
+        "home_url": "https:\/\/wisseninvestimentos.com.br",
+        "admin_url": "https:\/\/wisseninvestimentos.com.br\/website2022\/wp-admin\/",
+        "hosting": "unknown",
+        "alwaysBuffer": true,
+        "isEzoicActive": false,
+        "isApoActive": false,
+        "isLateIntegrationInitRequired": false,
+        "isDlmActive": false,
+        "isWoocommerceCacheHandlerActive": false,
+        "isWoocommerceActive": false,
+        "isAeliaCurrencySwitcherActive": false,
+        "dlm_downloading_url": null,
+        "dlm_download_endpoint": null,
+        "pluginVersion": "1.5.16",
+        "options_cache": {
+            "cache_handler_cache_handler": false,
+            "woocommerce_default_customer_address": false,
+            "wc_aelia_currency_switcher": {
+                "ipgeolocation_enabled": null
+            }
+        }
+    },
+    "config_path": "8ad84df5e7e66eec075ac5998212dc4e"
+}
