@@ -97,8 +97,8 @@ CREATE TABLE IF NOT EXISTS `wp_options` (
 --
 
 INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
-(1, 'siteurl', 'http://ppjur.web15f80.uni5.net/', 'yes'),
-(2, 'home', 'http://ppjur.web15f80.uni5.net/', 'yes'),
+(1, 'siteurl', 'https://www.ppjur.com/', 'yes'),
+(2, 'home', 'https://www.ppjur.com/', 'yes'),
 (3, 'blogname', 'Pacheco e Passos', 'yes'),
 (4, 'blogdescription', 'Pacheco e Passos - Advogados e Associados', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
