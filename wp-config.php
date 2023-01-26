@@ -21,10 +21,10 @@ define( 'WP_CACHE', true /* Modified by NitroPack */ );
 
 // ** Configurações do MySQL - Você pode pegar estas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define( 'DB_NAME', 'wissen_website2022' );
+define( 'DB_NAME', 'ppjur' );
 
 /** Usuário do banco de dados MySQL */
-define( 'DB_USER', 'wissen_website2022' );
+define( 'DB_USER', 'root' );
 
 /** Senha do banco de dados MySQL */
 define( 'DB_PASSWORD', '7ZloAzhr5R4x' );
